@@ -1,0 +1,28 @@
+[
+ {
+   "name": "John",
+   "characterClass": "Pizza Salesman", 
+   "level": 5,
+   "health": 100,
+   "attackPower": 20,
+   "gold": 170
+ }
+,
+ {
+   "name": "Medo",
+   "characterClass": "Luxury Bed Tester", 
+   "level": 4,
+   "health": 130,
+   "attackPower": 18,
+   "gold": 250
+ }
+,
+ {
+   "name": "Robert",
+   "characterClass": "Retired Soldier", 
+   "level": 6,
+   "health": 120,
+   "attackPower": 25,
+   "gold": 280
+ }
+]

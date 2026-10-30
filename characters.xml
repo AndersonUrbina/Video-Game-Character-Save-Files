@@ -1,0 +1,26 @@
+<characters>
+  <character>
+    <name>John</name>
+    <characterClass>Pizza Salesman</characterClass>
+    <level>5</level>
+    <health>100</health>
+    <attackPower>20</attackPower>
+    <gold>170</gold>
+  </character>
+  <character>
+    <name>Medo</name>
+    <characterClass>Luxury Bed Tester</characterClass>
+    <level>4</level>
+    <health>130</health>
+    <attackPower>18</attackPower>
+    <gold>250</gold>
+  </character>
+  <character>
+    <name>Robert</name>
+    <characterClass>Retired Soldier</characterClass>
+    <level>6</level>
+    <health>120</health>
+    <attackPower>25</attackPower>
+    <gold>280</gold>
+  </character>
+</characters>
