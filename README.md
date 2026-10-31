@@ -4,6 +4,8 @@
 
 A Java console application that saves game character information in both XML and JSON formats and displays the contents of the generated files in the console.
 
+<img src="Screenshots/pic.png">
+
 ## Features
 
 - Create and store multiple game characters.
@@ -56,3 +58,6 @@ Each character includes:
 - `PrintWriter`
 - `Scanner`
 - Java Collections (`ArrayList` and `List`)
+
+## Screenshots
+<img src="Screenshots/pic2.png">
